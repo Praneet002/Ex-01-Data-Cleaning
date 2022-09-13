@@ -20,6 +20,7 @@ Save the Clean data to the file
 
 # CODE FOR DATA 1
 
+```
 '''
 Program developed by: PRANEET.S
 Register number: 212221230078
@@ -56,25 +57,25 @@ df.isnull().sum()
 
 #Checking info of the dataset to check all the columns have entries
 df.info()
-
+```
 
 # OUTPUT FOR DATA 1
 
 
-![1](https://user-images.githubusercontent.com/93901857/189408463-6dcb0f99-88df-4c2a-b6f5-483290965dd8.jpeg)
-![2](https://user-images.githubusercontent.com/93901857/189408471-bf11a70d-d813-4f69-99c1-06f8ce16bbd8.jpeg)
-![3](https://user-images.githubusercontent.com/93901857/189408474-cde337ed-86b8-4fb1-a6bc-486cb669512a.jpeg)
-![4](https://user-images.githubusercontent.com/93901857/189408475-fd798d66-67e4-4ef4-9240-1b31a8d88036.jpeg)
-![5](https://user-images.githubusercontent.com/93901857/189408479-86dec374-4db9-4d14-a434-719f85177f13.jpeg)
-![6](https://user-images.githubusercontent.com/93901857/189408484-e4774740-45c8-46c5-90b5-cfe59edbe0a6.jpeg)
-![7](https://user-images.githubusercontent.com/93901857/189408490-8f723f4f-e462-41d9-b82f-a8b72a60c2bc.jpeg)
-![8](https://user-images.githubusercontent.com/93901857/189408492-8062bccd-bf60-484b-a1f5-dd695af2d635.jpeg)
-![9](https://user-images.githubusercontent.com/93901857/189408495-f8f22dff-0614-4a06-862f-7e25225b3e8f.jpeg)
-![10](https://user-images.githubusercontent.com/93901857/189408496-518226c3-1fdc-44a5-a62a-396c02102531.jpeg)
+![1](https://user-images.githubusercontent.com/94308200/189953869-5f8c5458-848f-4cb9-902e-4b5252f554f7.jpeg)
+![2](https://user-images.githubusercontent.com/94308200/189953879-27470009-36fc-4d71-bf6e-3c6b1532f85a.jpeg)
+![3](https://user-images.githubusercontent.com/94308200/189953921-dca506b1-61b7-43e5-b9ba-8b7e6cf5dda6.jpeg)
+![4](https://user-images.githubusercontent.com/94308200/189953923-935a86c7-b94d-4055-a613-984b7b9bcf8d.jpeg)
+![5](https://user-images.githubusercontent.com/94308200/189953930-ca8865f3-9bf8-4f3a-b67c-346fd9a325c3.jpeg)
+![6](https://user-images.githubusercontent.com/94308200/189953934-7641ae7a-3e67-42be-a64c-a601437843c2.jpeg)
+![7](https://user-images.githubusercontent.com/94308200/189953936-74d03807-a893-4afb-8da9-19b9f653a870.jpeg)
+![8](https://user-images.githubusercontent.com/94308200/189953943-abb3c403-94c4-4896-934f-f6677bd58d40.jpeg)
+![9](https://user-images.githubusercontent.com/94308200/189953947-83ecf23b-85e6-4bab-8e68-8568a0c8a303.jpeg)
+![10](https://user-images.githubusercontent.com/94308200/189953949-904ee43c-c4e6-4d63-95b6-ac5874762b6d.jpeg)
+![11](https://user-images.githubusercontent.com/94308200/189953958-7b297755-48d1-4f67-8a8b-56b6821fbf4e.jpeg)
+![12](https://user-images.githubusercontent.com/94308200/189953965-52a01ac8-4dfe-4d75-b70a-e626e0b4372c.jpeg)
+![13](https://user-images.githubusercontent.com/94308200/189953971-6be3e64e-936b-4ec4-b094-cfca1bc10af2.jpeg)
 
-![11](https://user-images.githubusercontent.com/93901857/189410758-98b22481-1507-4380-890d-b6b4ec18c637.jpeg)
-![12](https://user-images.githubusercontent.com/93901857/189410762-93716ce7-1f0c-4dd3-b980-f35ee3784c08.jpeg)
-![13](https://user-images.githubusercontent.com/93901857/189410764-2ca3ed1d-8085-46ea-8229-92d00db55738.jpeg)
 
 
 # CODE FOR DATA 2
@@ -122,13 +123,13 @@ d.info()
 # OUTPUT FOR DATA 2
 
 
-![2-1](https://user-images.githubusercontent.com/93901857/189519384-d362b0bb-3e29-47b4-9e03-29ce51d24f7c.jpeg)
-![2-2](https://user-images.githubusercontent.com/93901857/189519387-8e2e03f3-3744-4f9a-b04c-a33d647eae4f.jpeg)
-![2-3](https://user-images.githubusercontent.com/93901857/189519389-b0f7a67d-3ae2-4735-8da3-95839041fc16.jpeg)
-![2-4](https://user-images.githubusercontent.com/93901857/189519391-8d42ad95-909e-4dc8-8a11-5b6ea6965bab.jpeg)
-![2-5](https://user-images.githubusercontent.com/93901857/189519399-42c9540f-31d6-4748-8f4b-5bbb74719959.jpeg)
-![2-6](https://user-images.githubusercontent.com/93901857/189519403-5b58b5a5-953e-4ebf-865b-039929d92a03.jpeg)
-![2-7](https://user-images.githubusercontent.com/93901857/189519404-328f0ab6-2ee8-4bde-8fc1-c0a0a856a030.jpeg)
+![2-1](https://user-images.githubusercontent.com/94308200/189953884-f0ec6f3a-d75f-4497-bbf1-78e72db3b15c.jpeg)
+![2-2](https://user-images.githubusercontent.com/94308200/189953888-dbe2dbe0-d28f-4e5d-a85f-63706c18e242.jpeg)
+![2-3](https://user-images.githubusercontent.com/94308200/189953895-9f0dc82e-ceda-49e8-ab26-9ea100f087d1.jpeg)
+![2-4](https://user-images.githubusercontent.com/94308200/189953901-a02271db-9e9c-4ac8-947d-2ffe40bf4be1.jpeg)
+![2-5](https://user-images.githubusercontent.com/94308200/189953904-6e8a51bc-f1af-45da-95c7-4a6acf0a6f17.jpeg)
+![2-6](https://user-images.githubusercontent.com/94308200/189953910-a6e0fafb-ec77-4dd9-b28a-fa33d12f13ac.jpeg)
+![2-7](https://user-images.githubusercontent.com/94308200/189953915-f81fc230-be90-4fe6-b9b2-0545ce8add5b.jpeg)
 
 # Result
 The given data is read and data cleaning is performed and the cleaned data is saved to a file
